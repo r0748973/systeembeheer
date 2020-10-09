@@ -124,3 +124,19 @@ touch authorized_keys
 ls
 nano authorized_keys 
 exit
+git add .
+git commit -m "ssh
+git commit -m "ssh"
+git push
+sudo apt-get update
+exit
+locale
+exit
+passwd
+deluser -F check
+exit
+adduser check
+ssh check@193.191.177.188 -p 22345
+exit
+chown -R check:authorized_keys /home/check/.ssh
+chown -R check:check /home/check
