@@ -140,3 +140,36 @@ ssh check@193.191.177.188 -p 22345
 exit
 chown -R check:authorized_keys /home/check/.ssh
 chown -R check:check /home/check
+locale
+localectl status
+sudo update-local LANG=en_US.UTF-8
+sudo update-locale LANG=en_US.UTF-8
+nano /etc/default/locale 
+locale
+nano /etc/default/locale 
+git add .
+git commit -m 
+git commit -m "ssh werkt"
+git push
+update-locale LC_TIME=nl_Be.UTF-8
+update-locale LANG=en_US.UTF-8
+update-locale LANGUAGE=en_US
+update-locale LC_CTYPE="en_US.UTF-8"
+update-locale LC_NUMERIC=nl_BE.UTF-8
+update-locale LC_TIME=nl_BE.UTF-8
+update-locale LC_COLLATE="en_US.UTF-8"
+nano /etc/default/locale 
+update-locale LC_COLLATE="en_US.UTF-8"
+LOCALE
+locale
+sudo update-locale LANG=en_IN.UTF-8 LANGUAGE
+nano /etc/default/locale 
+locale
+nano /etc/default/locale 
+locale
+nano /etc/default/locale 
+locale
+nano /etc/default/locale 
+locale
+nano /etc/default/locale 
+locale
