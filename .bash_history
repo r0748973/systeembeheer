@@ -239,3 +239,22 @@ update-locale LC_TELEPHONE=nl_BE.UTF-8
 update-locale LC_MEASUREMENT=nl_BE.UTF-8
 update-locale LC_IDENTIFICATION=nl_BE.UTF-8
 exit
+locale
+perl -e exit
+git add .
+git commit -m "Locals staan nu juist"
+git push 
+nano /etc/scripts/backup.sh
+cd etc
+cd /etc
+ls
+mkdir scripts
+cd scripts/
+ls
+nano backup.sh
+exit
+sudo apt-get install -y monitoring-plugins-basic
+sudo apt-get install net-tools
+check ALL=NOPASSWD: /usr/lib/nagios/plugins/check_apt, /usr/sbin/arp
+nano /etc/sudoers
+exit
