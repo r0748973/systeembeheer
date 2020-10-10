@@ -173,3 +173,69 @@ nano /etc/default/locale
 locale
 nano /etc/default/locale 
 locale
+perl -e exit
+locale-gen en_US.UTF-8 
+locale-gen en_US
+locale-gen nl_BE.UTF-8 
+LANG=en_US.utf8
+locale
+LANG=en_US.UTF-8
+locale
+nano /etc/default/locale 
+LC_NUMERIC=nl_BE.UTF-8
+locale-gen nl_BE.UTF-8 
+LC_NUMERIC=nl_BE.UTF-8
+locale
+localectl set-locale LC_NUMERIC=nl_BE.UTF-8
+locale
+localectl set-locale LC_NUMERIC=nl_BE.UTF-8
+version
+lsb_release -a
+git login
+git --help
+git add .
+git commit -m "changed the locals"
+git config --global user.name "r0748973"
+git config --global user.email r0748973@ucll.be
+git commit -m "changed the locals"
+git add
+git add .
+git commit -m "changed the locals"
+git push 
+sshguard
+apt install sshguard
+sshguard /var/log/auth.log
+exit
+locale -a
+perl -e
+perl -e exit
+perl
+locale
+locale -c -k LC_TIME
+cat /etc/default/locale 
+rm /etc/default/locale
+cat /etc/default/locale 
+locale -a
+update-locale LANG=en_US.UTF-8
+cat /etc/default/locale 
+locale -a
+update-locale LANGUAGE=en_US
+cat /etc/default/locale 
+update-locale LC_CTYPE="en_US.UTF-8"
+locale
+update-locale LC_NUMERIC=nl_BE.UTF-8
+locale
+cat /etc/default/locale 
+restart
+locale
+update-locale LC_TIME=nl_BE.UTF-8
+update-locale LC_COLLATE="en_US.UTF-8"
+update-locale LC_MONETARY=nl_BE.UTF-8
+update-locale LC_MESSAGES="en_US.UTF-8"
+update-locale LC_PAPER=nl_BE.UTF-8
+update-locale LC_NAME=nl_BE.UTF-8
+update-locale LC_ADDRESS=nl_BE.UTF-8
+update-locale LC_TELEPHONE=nl_BE.UTF-8
+update-locale LC_MEASUREMENT=nl_BE.UTF-8
+update-locale LC_IDENTIFICATION=nl_BE.UTF-8
+exit
