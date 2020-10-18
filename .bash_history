@@ -258,3 +258,19 @@ sudo apt-get install net-tools
 check ALL=NOPASSWD: /usr/lib/nagios/plugins/check_apt, /usr/sbin/arp
 nano /etc/sudoers
 exit
+apt-istal upgrade
+apt-instal upgrade
+apt-install upgrade
+apt-get upgrade 
+git add .
+git commit -m "sudo labo is af"
+git push
+apt install unattended-upgrades 
+sudo nano /etc/apt/apt.conf.d/50unattended-upgrades
+sudo nano /etc/apt/apt.conf.d/20auto-upgrades
+sudo unattended-upgrades --dry-run --debug
+logout
+sshguard
+ufw status
+sshguard
+logout
