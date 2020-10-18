@@ -274,3 +274,141 @@ sshguard
 ufw status
 sshguard
 logout
+git add .
+git commit -m "apt" 
+git push
+cd /etc/
+cd scripts/
+nano incron_config.sh
+cd
+man 5 incrontab
+systemctl status incron
+incron
+apt install incron
+systemctl status incron
+cd /etc/
+cd scripts/
+ls
+chmod +x /backup.sh
+chmod +x \backup.sh
+chmod +x backup.sh
+chmod +x incron_config.sh 
+ls
+systemctl status incron
+crontab -e
+cd ..
+ls
+nano .gitignore
+ls
+systemctl status incron
+update-rc.d cron defaults
+systemctl status incron
+cd scripts/
+ls
+chmod +x incron_config.sh 
+systemctl status incron
+cd
+cd /r
+/etc
+cd /etc/
+ls
+service incrond start
+install incrond 
+apt install incrond
+service incrond start
+cd incron.conf
+nano incron.conf 
+cd incron.d/
+ls
+cd ..
+nano incron.conf 
+systemctl status incron
+cd
+man incron
+man crontab
+incrontab -e
+apt install incron
+systemctl start incron
+systemctl enable incron
+systemctl status incron
+incrontab -e
+crontab -e
+sshguard
+iptables -N sshguard
+iptables -A INPUT -j sshguard
+iptables -N
+iptables -L
+ip6tables -N sshguard
+ip6tables -A INPUT -j sshguard
+ip6tables -L
+nano /etc/sshguard.com
+nano /etc/sshguard.conf
+cd /etc/
+cd sshguard/
+nano sshguard.conf
+ls
+nano whitelist 
+/etc/init.d/sshguard restart
+stystemctl status sshguard
+cd
+systemctl status sshguard
+/etc/init.d/sshguard restart
+systemctl status sshguard
+ip6tables -N sshguard
+ip6tables -A INPUT -j sshguard
+/etc/init.d/sshguard restart
+systemctl status sshguard
+exit
+systemctl status sshguar
+exit
+nano /etc/sshguard.conf
+cd /etc/
+exit
+iptables -L
+logout
+cd /etc/
+ls
+cd sshguard/
+
+stystemctl status sshguard
+cd
+systemctl status sshguard.service 
+/etc/init.d/sshguard restart
+systemctl status sshguard.service 
+iptables -L
+nano /etc/sshguard.conf
+nano /etc/sshguard/sshguard.conf
+sshguard
+nano /etc/sshguard/sshguard.conf
+journalctl -afb -p info SYSLOG_FACILITY=4 SYSLOG_FACILITY=10
+cd /etc/sshguard/
+ls
+systemctl restart sshguard
+systemctl status sshguard
+systemctl status sshguard.service
+cd
+iptables -N sshguard
+iptables -S
+iptables -D
+iptables -L
+iptables -L --line-numbers
+iptables -D DROP 1
+iptables -D INPUT 1
+iptables -L --line-numbers
+iptables -N sshguard
+/etc/init.d/sshguard restart
+iptables -L --line-numbers
+iptables -A INPUT -j sshguard
+iptables -L --line-numbers
+iptables -D sshguard 1
+iptables -L --line-numbers
+/etc/init.d/sshguard restart
+iptables -L --line-numbers
+systemctl status sshguard.service
+exit
+systemctl status sshguard.service
+iptables -L --line-numbers
+
+iptables -L --line-numbers
+iptables -S
+logout
